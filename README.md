@@ -1,4 +1,4 @@
-# Bingo-Game
+# Bingo Game
 
 ## Prerequisites ##
 This project was created in Java in Project SDK version 11.0.2 using IntelliJ IDEA Community Edition 2021.2.2.
