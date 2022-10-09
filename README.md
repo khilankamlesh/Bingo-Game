@@ -5,13 +5,11 @@ This project was created in Java in Project SDK version 11.0.2 using IntelliJ ID
 
 This was the second of three projects as part of the Object Oriented Programming module at the University of Birmingham, implementing the more advanced concepts of OOP using multiple classes.
 
-Scored 95/100
-
 ## Goal ##
 The goal of this project is to create a menu-driven text-based limited implementation of a bingo game. The program should:
 1. set the dimensions of the bingo cards (rows by columns);
 2. set the numbers contained on every bingo card in the game;
-3. process sequences of numbers to be ‘called’; 20
+3. process sequences of numbers to be ‘called’;
 4. mark matched numbers on all bingo cards currently in use;
 5. test whether a bingo card is a fullhouse winner
 
