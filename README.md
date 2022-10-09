@@ -13,10 +13,10 @@ The goal of this project is to create a menu-driven text-based limited implement
 4. mark matched numbers on all bingo cards currently in use;
 5. test whether a bingo card is a fullhouse winner
 
-## File Layout ##
+## Project Layout ##
 * Extract JavaAssign2_Khilan_Kamlesh_2307483 and open folder as project in IntelliJ IDEA Community Edition
-* UML.png shows a UML generated diagram to visualise class and method relationships generated in IntelliJ using plugins 'Call Graph', 'SequenceDiagram' and 'UMLGenerator'
+* Assignment212/UML.png shows a UML generated diagram to visualise class and method relationships generated in IntelliJ using plugins 'Call Graph', 'SequenceDiagram' and 'UMLGenerator'
 * Code design and implementation in Assignment212/src folder
 * Assignment212/testFiles folder includes .txt files to test the functionality and edge case scenarios in IntelliJ after completing a section of code.
 * The results of tests are compared against expectedOutput files in the Assignment212/answerFiles folder using IntelliJ's Run/Debug configurations.
-* Output of code is copied to file StudentOutput.txt
+* Output of code is copied to file Assignment212/StudentOutput.txt
